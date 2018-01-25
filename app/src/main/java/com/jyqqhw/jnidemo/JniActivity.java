@@ -7,7 +7,6 @@ import android.util.Log;
 public class JniActivity extends AppCompatActivity {
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

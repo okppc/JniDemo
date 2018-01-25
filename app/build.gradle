@@ -13,7 +13,7 @@ android {
         ndk {
             moduleName "HelloJni"
             ldLibs "log", "z", "m"
-            abiFilters "armeabi", "armeabi-v7a", "x86"
+            abiFilters  "armeabi-v7a", "x86"
         }
     }
     buildTypes {
